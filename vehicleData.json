@@ -1,0 +1,12 @@
+{
+  "vehicleData": {
+    "make": "Audi",
+    "enginePerformance": "120",
+    "dateOfManufacture": "10/12/2020",
+    "numberOfSeats": "5",
+    "fuelType": "Petrol",
+    "listPrice": "30000",
+    "licensePlate": "TN38AB1234",
+    "annualMileage": "12000"
+  }
+}
